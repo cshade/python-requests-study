@@ -15,6 +15,11 @@ Running src/core.py within VSCode
 /usr/local/bin/python3 /Users/.../requests-study/src/core.py
 ```
 
+If requests ModuleNotFoundError, run below pip3 command (Python 3) to install, or see Requests link under Built With section for installation guide:
+```bash
+pip3 install requests
+```
+
 ## Built With
 
 - Python 3.7.4
